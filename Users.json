@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("6459d1b8451c8a9a22bcef01"),
+  "name": "Alice Smith",
+  "email": "alice@example.com",
+  "role": "editor",  // could be "admin", "editor", "viewer"
+  "hashed_password": "hashed_pw_123",
+  "created_at": ISODate("2025-05-03T10:00:00Z")
+}
